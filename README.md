@@ -1,3 +1,3 @@
-# Adaptive decoupling earwigs stoneflies
+# Adaptive decoupling in earwigs and stoneflies.
 
-Code used for the analyses described in the manuscript "No adaptive decoupling in two metamorphosing insect lineages".
+Code used for the analyses described in the manuscript "Adult morphology is driven by juvenile ecology in two insect lineages".
